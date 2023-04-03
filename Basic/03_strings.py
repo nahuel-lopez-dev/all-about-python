@@ -34,7 +34,7 @@ a, b, c, d, e, f = language
 print(a)
 print(e)
 
-# División
+# División o slicing
 
 language_slice = language[1:3]
 print(language_slice)
