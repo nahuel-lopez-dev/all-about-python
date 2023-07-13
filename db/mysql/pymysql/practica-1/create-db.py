@@ -13,7 +13,7 @@ if __name__ == '__main__':
             host = 'localhost',
             port = 3306,
             user = 'root',
-            passwd = ''
+            passwd = 'password'
         )
         
         cursor = connect.cursor()

@@ -1,33 +1,32 @@
-# importando el conector a MySQL
+# importando el conector 
 import pymysql
-# importando sys para trabajar con caracteres especiales como acentos
+# importando sys agregar caracteres especiales
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-CREATE_DB = """CREATE DATABASE IF NOT EXISTS python_pymysql"""
+CREATE_DB = """CREATE DATABASE IF NOT EXISTS pymysql"""
 
-# creando la conexión
-if __name__ == '__main':
+if __name__ == '__main__':
     
     try:
         connect = pymysql.Connect(
-            host='localhost',
-            port=3306,
-            user='root',
-            passwd=''
+            host = 'localhost',
+            port = 3306,
+            user = 'root',
+            passwd = 'password'
         )
-        # creando el cursor    
+        
         cursor = connect.cursor()
-        # ejecutando la query
+        
         cursor.execute(CREATE_DB)
-        # imprimiendo mensaje de conexión exitosa y db creada
-        print('Conexión realizada de forma exitosa y database creada')
-    
+        
+        print('Conexión realizada de forma exitosa, database creada')
+        
     except pymysql.err.OperationalError as err:
         print('No fue posible realizar la conexión')
         print(err)
     
     finally:
         cursor.close()
-        connect.close()
-        print('Conexión finalizada de forma exitosa')
+        connect.close()    
+        print('Conexión finalizada de forma exitosa')    
