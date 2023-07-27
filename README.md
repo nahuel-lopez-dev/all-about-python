@@ -12,7 +12,7 @@
 
 ### El proyecto es una recopilación de teoría y práctica de Python de distintos cursos, para comprender la sintaxis del lenguaje, desde básico a avanzado.
 ### Gran parte del contenido, pude armarlo gracias a los increíbles notebooks proporcionados en la `Diplomatura en Ciencia de Datos e IA de la UNSAM` por un equipo de profesores excelente, del curso de Python de `MoureDev`, y del curso de Udemy de `Andrei Neagoie`. 
-### Además proporcioné ejemplos propios, recopilé datos e información útil de diversas fuentes en internet, y lo sigo haciendo para ampliar el material.
+### Otra gran parte es del esfuerzo de horas y horas de investigar y recopilar de distintas fuentes información útil y relevante para los notebooks, así como para generar ejemplos propios que puedan aportar contenido valioso a cada tema que he tratado.
 
 
 <!-- ## *Version 1.0.0:*
