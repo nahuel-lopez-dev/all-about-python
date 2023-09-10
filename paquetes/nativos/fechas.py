@@ -2,7 +2,7 @@ import time # opción no recomendada
 # import datetime # es mejor usar datetime
 
 # una mejor opción con datetime
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Devuelve un timestamp
 # Es la cantidad de segundos que han ocurrido desde el 1° de Enero de 1970
@@ -43,5 +43,21 @@ print(
     fecha1.hour,
     fecha1.minute
 )
+
+fecha3 = datetime(2023, 1,1) + timedelta(weeks=1)
+fecha4 = datetime(2023, 2,1)
+
+delta = fecha4 - fecha3
+print("fecha3 - fecha4:", delta)
+print("days", delta.days)
+print("seconds", delta.seconds)
+print("microseconds", delta.microseconds)
+print("total_seconds()", delta.total_seconds())
+
+
+
+
+
+
 
 
