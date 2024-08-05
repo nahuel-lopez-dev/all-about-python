@@ -20,4 +20,4 @@ cursor = conexion.cursor()
 print(conexion)
 
 ###### Creando la base de datos reto_mysql ######
-cursor.execute("CREATE DATABASE reto_mysql;")
+cursor.execute("CREATE DATABASE IF NOT EXISTS reto_mysql;")
