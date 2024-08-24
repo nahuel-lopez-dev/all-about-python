@@ -1,8 +1,10 @@
 <section id="inicio" align="center">
     <h1>All About Python</h1>
     <img width=500 src="./img/header-python.png"/>
-    <h2 align="start">Proyecto para aprender Python from Zero to Hero</h2>
+    <p><b>(From Zero to Little Ninja)</b></p>
 </section>
+
+<h2 align="start">Proyecto para aprender Python con Notebooks</h2>
 
 ### Tabla de Contenidos:
 
@@ -19,8 +21,8 @@
 
 El proyecto comenzó como una recopilación de teoría y práctica de cursos y bootcamps que hice, para comprender la sintaxis del lenguaje, desde básico a avanzado, combinando conceptos teóricos con ejercicios y problemas.\
 Parte del contenido se lo debo a los contenidos proporcionados en la `Diplomatura en Ciencia de Datos e IA de la UNSAM` por un equipo de profesores excelente, del curso de Python y de los ejercicios de `MoureDev`, de lo aprendido en Python de la plataforma de `Código Facilito`, de los cursos de Udemy que tomé como el de Ultimate Python de `Nicolas Schurmann` (Muy conocido su canal de Hola mundo en youtube), the complete Python Developer de `Andrei Neagoie`, entre muchos otros cursos y videos tutoriales.\
-Otra gran parte es del esfuerzo de horas y horas de investigar y recopilar de distintas fuentes información útil y relevante para los notebooks, así como para generar ejemplos propios que puedan aportar contenido valioso a cada tema que he tratado.
-Esto es producto de mucho esfuerzo y meses de dedicación, para lograr un repositorio realmente útil para quién quiera comenzar a aprender Python desde cero y pueda tener a mano tanto los conceptos teóricos iniciales como ejercicios de programación que los acompañan, hasta conceptos teóricos avanzados con más ejercicios, estructuras de datos, patrones de diseño, principios SOLID, conexiones a bases de datos, librerías útiles y muchas cosas más. 
+Otra gran parte es del esfuerzo de horas y horas de investigar y recopilar de distintas fuentes información útil y relevante para los notebooks, así como para generar ejemplos propios que puedan aportar contenido valioso a cada tema que he tratado.\
+Esto es producto de mucho esfuerzo y tiempo de dedicación, para lograr un repositorio realmente útil para quién quiera comenzar a aprender Python desde cero y pueda tener a mano tanto los conceptos teóricos iniciales como ejercicios de programación que los acompañan, hasta conceptos teóricos avanzados con más ejercicios, estructuras de datos, patrones de diseño, principios SOLID, conexiones a bases de datos, librerías útiles y muchas cosas más. 
 
 
 ## **Prerrequisitos**
