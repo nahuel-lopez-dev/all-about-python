@@ -59,9 +59,9 @@ Nada por el momento, luego ampliaré.
 
 ### Agradecimientos 
 
-Agradecimientos a todos aquellos divulgadores que dedican gran parte de su tiempo a enseñar online, democratizando el acceso a la educación, y haciendo posible que personas que no tenían la posibilidad de estudiar, ahora puedan hacerlo con verdaderos profesionales con trayectoria reconocida a nivel internacional, que con toda su humildad, comparten sus experiencias y conocimientos.
-Agradecimientos a la UNSAM (Universidad Nacional de San Martin) por compartir en su Diplomatura de Python, notebooks de materiales, que fueron de inspiración para hacer este proyecto.
-Agradecimientos a Código Facilito, plataforma de aprendizaje para desarrolladores, hecha por desarrolladores, que no para de ampliarse y perfeccionarse como plataforma, brindando cada vez más contenidos de calidad especializados, con profesores experimentados en la industria y a un costo notoriamente más bajo que el del mercado, para hacer más fácil el acceso a la educación y llegar a más personas.
+Agradecimientos a todos aquellos divulgadores que dedican gran parte de su tiempo a enseñar online, democratizando el acceso a la educación, y haciendo posible que personas que no tenían la posibilidad de estudiar, ahora puedan hacerlo con verdaderos profesionales con trayectoria reconocida a nivel internacional, que con toda su humildad, comparten sus experiencias y conocimientos.\
+Agradecimientos a la UNSAM (Universidad Nacional de San Martin) por compartir en su Diplomatura de Python, notebooks de materiales, que fueron de inspiración para hacer este proyecto.\
+Agradecimientos a Código Facilito, plataforma de aprendizaje para desarrolladores, hecha por desarrolladores, que no para de ampliarse y perfeccionarse como plataforma, brindando cada vez más contenidos de calidad especializados, con profesores experimentados en la industria y a un costo notoriamente más bajo que el del mercado, para hacer más fácil el acceso a la educación y llegar a más personas.\
 Agradecimientos, en particular, a todos aquellos que me sirvieron de inspiración para tomarme el tiempo de hacer este proyecto y devolver algo de todo lo que pude aprender y tomar de forma online, ya sea gratuito o de pago, porque me sirvió para mejorar profesionalmente, cambiar de trabajo y seguir desarrollándome en la industria, ya que nunca se deja de aprender.
 
 ### Recomendaciones
