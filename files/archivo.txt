@@ -1,0 +1,6 @@
+Yo, soy Batman
+Mi verdadero nombre es Nahuel
+Mi lenguaje preferido es Python
+Aunque también me gusta JavaScript
+Abriendo el archivo con with
+Escribiendo en el archivo con with

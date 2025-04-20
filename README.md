@@ -107,7 +107,7 @@ Si quieres saber más sobre mí, puedes ir a mi perfil de GitHub:
 
 
 <div align="center">
-  <p>Desarrollado con 💙 por <i><b>NaLo Dev ထ</b></i></p>
+  <p>Desarrollado con 💙 por <i><b>Nahuel Lopez ထ</b></i></p>
 </div>
 
 <br>
