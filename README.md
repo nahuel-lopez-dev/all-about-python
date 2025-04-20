@@ -6,43 +6,84 @@
 
 <h2 align="start">Proyecto para aprender Python con Notebooks</h2>
 
+
 ### Tabla de Contenidos:
 
-- [**Información del proyecto**](#información-del-proyecto) 📁
-- [**Prerrequisitos**](#prerrequisitos) 📝
-- [**Herramientas y tecnologías**](#herramientas-y-tecnologías) 🛠️
-- [**Screenshots**](#screenshots) 📸
-- [**Información adicional**](#información-adicional) 🪧
-- [**Recomendaciones y agradecimientos**](#recomendaciones-y-agradecimientos) 👋🏽
-- [**Cómo contribuir**](#cómo-contribuir) 🖐🏼
-- [**Autor**](#autor) 🪪
+- 📁 [**Información del proyecto**](#información-del-proyecto)  
+  - [¿Qué vas a aprender?](#qué-vas-a-aprender)
+  - [Orden de Notebooks del Proyecto](#orden-de-notebooks-del-proyecto)
+- 📝 [**Prerrequisitos**](#prerrequisitos)
+- 📸 [**Screenshots**](#screenshots)
+- 🪧 [**Información adicional**](#información-adicional)
+- 👋🏽 [**Recomendaciones y agradecimientos**](#recomendaciones-y-agradecimientos)
+- 🖐🏼 [**Cómo contribuir**](#cómo-contribuir)
+- 🪪 [**Autor**](#autor)
+
 
 ## **Información del proyecto**
 
 El proyecto comenzó como una recopilación de teoría y práctica de cursos y bootcamps que hice, para comprender la sintaxis del lenguaje, desde básico a avanzado, combinando conceptos teóricos con ejercicios y problemas.\
 Parte del contenido se lo debo a los contenidos proporcionados en la `Diplomatura en Ciencia de Datos e IA de la UNSAM` por un equipo de profesores excelente, del curso de Python y de los ejercicios de `MoureDev`, de lo aprendido en Python de la plataforma de `Código Facilito`, de los cursos de Udemy que tomé como el de Ultimate Python de `Nicolas Schurmann` (Muy conocido su canal de Hola mundo en youtube), the complete Python Developer de `Andrei Neagoie`, entre muchos otros cursos y videos tutoriales.\
 Otra gran parte es del esfuerzo de horas y horas de investigar y recopilar de distintas fuentes información útil y relevante para los notebooks, así como para generar ejemplos propios que puedan aportar contenido valioso a cada tema que he tratado.\
-Esto es producto de mucho esfuerzo y tiempo de dedicación, para lograr un repositorio realmente útil para quién quiera comenzar a aprender Python desde cero y pueda tener a mano tanto los conceptos teóricos iniciales como ejercicios de programación que los acompañan, hasta conceptos teóricos avanzados con más ejercicios, estructuras de datos, patrones de diseño, principios SOLID, conexiones a bases de datos, librerías útiles y muchas cosas más. 
+Este proyecto es fruto de muchas horas de esfuerzo y dedicación. Busqué crear un repositorio realmente útil para quienes quieran aprender Python desde cero, y pueda tener a mano tanto los conceptos teóricos iniciales como ejercicios de programación que los acompañan, hasta conceptos teóricos avanzados con más ejercicios, estructuras de datos, patrones de diseño, principios SOLID, conexiones a bases de datos, librerías útiles y muchas cosas más. 
 
+### Qué vas a aprender
+
+- Sintaxis básica de Python
+- Control de flujo: condicionales y bucles
+- Estructuras de datos: listas, tuplas, diccionarios, sets
+- Programación orientada a objetos (POO)
+- Errores y excepciones
+- Archivos, fechas y expresiones regulares
+- Principios SOLID y Patrones de diseño
+- Algoritmos y estructuras de datos
+- ¡Y más!
+
+### Orden de Notebooks del Proyecto
+
+Este es el recorrido sugerido para avanzar paso a paso en los conceptos de Python y programación:
+
+1. **A - Intro**
+2. **B - Condicionales y Ciclos**
+3. **C - Tipos de Datos y Estructuras**
+4. **D - Listas**
+5. **E - Tuplas**
+6. **F - Strings**
+7. **G - Expresiones Regulares (Regex)**
+8. **H - Diccionarios y Sets**
+9. **I - Funciones**
+10. **J - Programación Orientada a Objetos (POO)**
+11. **K - Errores, Excepciones y Generadores**
+12. **L - Manipulación de Archivos**
+13. **M - Manipulación de Fechas**
+14. **N - Estructuras de Datos**
+15. **O - Principios SOLID**
+16. **P - Patrones de Diseño (Design Patterns)**
+17. **Q - Complejidad Algorítmica**
+18. **R - Algoritmos**
+19. **S - Carga en Google Colab**
+
+> 📌 *Este orden busca ir desde los fundamentos hasta temas más avanzados de forma progresiva y natural.*
+
+`Notebooks de ejercicios`
+
+Fundamental para reforzar lo aprendido y poner a prueba los conocimientos. 
+
+1. **Basicos**
+2. **Estructuras de datos básicas**
+3. **Estructura de datos avanzadas**
+4. **Algoritmos**
+5. **Ejercicios_numpy_pandas**
+6. **Python_Lab_CF**
+7. **Mouredev-mini-retos**
+8. **Mouredev-roadmap**
+9. **Mouredev-ejercicios**
+10. **Challenges**
 
 ## **Prerrequisitos**
 
 Ninguno, comienza desde cero.
 Cualquier cosa que se necesite, se irá viendo en los notebooks.
-
-
-## **Herramientas y tecnologías**
-
-Tecnologías utilizadas para construir el proyecto:
-
-- [Git](https://git-scm.com/) - El controlador de versiones utilizado
-- [GitHub](https://github.com/) - La plataforma de desarrollo colaborativo, donde se aloja este proyecto.
-- [Docker](https://www.docker.com/) - La tecnología de contenedores utilizada para manejar una imagen de airflow.
-- [Python](https://www.python.org/) - El lenguaje de programación utilizado.
-- [Pandas](https://pandas.pydata.org/) - Una librería  de Python para la manipulación y el análisis de los datos.
-- [SQL](https://www.postgresql.org) - El lenguaje de consulta utilizado para bases de datos relacionales.
-- [Snowflake](https://www.snowflake.com/es/) - La plataforma de almacenamiento de datos basada en la nube que fue utilizada. 
-- [Airflow](https://airflow.apache.org/) - La plataforma de gestión de flujo (un orquestador) utilizada.
 
 
 ## **Screenshots**
