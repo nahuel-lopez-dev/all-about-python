@@ -124,7 +124,7 @@ Si la mejora o la contribución es relevante, acepto pull request para ampliar e
 ## **Autor**
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=¡Hola+mundo!+Soy+Nahuel.;Un+apasionado+Data+Engineer;y+Python+Developer⚡." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=Hello+World!+I+am+Nahuel.;A+passionate+Data+Engineer;and+Python+Developer⚡." alt="Typing SVG" /></a>
 </p>
 
 <div>
