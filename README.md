@@ -62,6 +62,7 @@ Este es el recorrido sugerido para avanzar paso a paso en los conceptos de Pytho
 17. **Q - Complejidad Algorítmica**
 18. **R - Algoritmos**
 19. **S - Carga en Google Colab**
+20. **Zen de Python**
 
 > 📌 *Este orden busca ir desde los fundamentos hasta temas más avanzados de forma progresiva y natural.*
 
